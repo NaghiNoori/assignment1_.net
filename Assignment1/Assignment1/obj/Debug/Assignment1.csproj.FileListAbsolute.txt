@@ -1,0 +1,5 @@
+/Users/naqeebnoori/OneDrive - John Abbott College/12. .NET Programming/VS_projects/Assignment1/Assignment1/bin/Debug/Assignment1.exe
+/Users/naqeebnoori/OneDrive - John Abbott College/12. .NET Programming/VS_projects/Assignment1/Assignment1/bin/Debug/Assignment1.pdb
+/Users/naqeebnoori/OneDrive - John Abbott College/12. .NET Programming/VS_projects/Assignment1/Assignment1/obj/Debug/Assignment1.csprojAssemblyReference.cache
+/Users/naqeebnoori/OneDrive - John Abbott College/12. .NET Programming/VS_projects/Assignment1/Assignment1/obj/Debug/Assignment1.exe
+/Users/naqeebnoori/OneDrive - John Abbott College/12. .NET Programming/VS_projects/Assignment1/Assignment1/obj/Debug/Assignment1.pdb
